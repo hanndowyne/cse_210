@@ -1,3 +1,5 @@
+//I added a log system that records all completed activities into a text file.
+
 using System;
 
 class Program
